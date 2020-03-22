@@ -1,5 +1,5 @@
 <h1 align="center">
-  GraphQL Post Page
+  GraphQL Post Page - (Server API)
 </h1>
 
 ## How to implement
