@@ -33,6 +33,7 @@
 
     - MongoDb Database
     - Configure the connection string on .env file
+    - Client Web page (Download here): https://github.com/raynegomes/graphql-post-page-client
 
 ## Packages used in the project:
 
